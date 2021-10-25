@@ -1,4 +1,10 @@
+*{
+    padding: 0;
+   margin: 0;
+   font-size: 30px;
+}
+
 div::after{
 
-    content: "I donno I think I have done absolutely everything you can do to prepare for the day. I've updated our contacts, I have gotten quotes from supplies, I have sent out an e-vite, for our big, grand opening pancake luncheon. Six yes's, one maybe, only eleven no's. And seven hundred and eighty-eight not-yet-replied's but! Of that group, seven hundred and eighty-two have viewed it.";
+    content: "I donno I think I have done absolutely everything you can do to prepare for the day. I've updated our contacts, I have gotten quotes from supplies, I have sent out an e-vite, for our big, grand opening pancake luncheon. Six yes's, one maybe, only eleven no's. And seven hundred and eighty-eight not-yet-replied's but! Of that group, seven hundred and eighty-two have viewed it. I donno I think I have done absolutely everything you can do to prepare for the day. I've updated our contacts, I have gotten quotes from supplies, I have sent out an e-vite, for our big, grand opening pancake luncheon. Six yes's, one maybe, only eleven no's. And seven hundred and eighty-eight not-yet-replied's but! Of that group, seven hundred and eighty-two have viewed it. I donno I think I have done absolutely everything you can do to prepare for the day. I've updated our contacts, I have gotten quotes from supplies, I have sent out an e-vite, for our big, grand opening pancake luncheon. Six yes's, one maybe, only eleven no's. And seven hundred and eighty-eight not-yet-replied's but! Of that group, seven hundred and eighty-two have viewed it.I donno I think I have done absolutely everything you can do to prepare for the day. I've updated our contacts, I have gotten quotes from supplies, I have sent out an e-vite, for our big, grand opening pancake luncheon. Six yes's, one maybe, only eleven no's. And seven hundred and eighty-eight not-yet-replied's but! Of that group, seven hundred and eighty-two have viewed it.";
 }  
