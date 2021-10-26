@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+font-size: 45px;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    scroll-snap-align: start;
+}
+
+.maincontainer{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+#color-1{
+    background: rgb(255, 74, 74);
+}
+
+#color-2{
+    background: rgb(91, 91, 253);
+}
+
+#color-3{
+    background: rgb(120, 255, 86);
+    color: black;
+}
+
+#color-4{
+    background: rgb(255, 82, 246);
+}
+
+#color-5{
+    background: rgb(255, 226, 94);
+}
